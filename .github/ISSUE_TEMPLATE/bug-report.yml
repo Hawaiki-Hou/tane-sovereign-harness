@@ -1,0 +1,27 @@
+name: Bug report
+description: Something doesn't work as it should
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations: { required: true }
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open the garden\n2. Tap …\n3. See …"
+    validations: { required: true }
+  - type: input
+    id: device
+    attributes:
+      label: Device and version
+      placeholder: "e.g. Seeker, Android 15, commit abc1234"
+  - type: checkboxes
+    id: care
+    attributes:
+      label: Care
+      options:
+        - label: My report contains no one's personal, whānau or tapu information.
+          required: true

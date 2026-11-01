@@ -1,0 +1,33 @@
+name: Review finding
+description: Something you found while checking Tāne's reliability, safety, security or robustness
+labels: ["review"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: [Reliability, Safety, Security (low risk only — serious ones go to private reporting), Robustness]
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes:
+      label: What you found
+      description: One or two sentences.
+    validations: { required: true }
+  - type: textarea
+    id: how
+    attributes:
+      label: How you tested it
+      description: Steps, device or OS, and the commit you tested.
+    validations: { required: true }
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen instead
+  - type: checkboxes
+    id: care
+    attributes:
+      label: Care
+      options:
+        - label: My report contains no one's personal, whānau or tapu information.
+          required: true
