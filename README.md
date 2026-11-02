@@ -49,6 +49,8 @@ Tāne te Kaihanga guards everything you keep. It is encrypted on your own phone 
 ### IP: protecting creative and cultural work
 A place to register and protect what you make: art, designs, writing, research and the cultural knowledge within them. Creators set the terms for how their work may be used, and licences are made clear and fair, so Indigenous creators and researchers are credited, consulted and paid, instead of having their work taken.
 
+<p align="center"><img src="gallery/images/09-ip.png" width="200" alt="The IP page: a carved figure with red details, Intellectual Property, Indigenous Polymath, and buttons for Researchers, Universities and Subscribe"> <img src="gallery/images/14-university-licence.png" width="200" alt="The University licence page, where a university or wānanga sets up its research station"></p>
+
 ### Train Me: Tāne learns you
 Teach Tāne your own voice, your own way of speaking, your reo (the Māori language) and your words, on your own device. The more you use him, the better he understands you, and what he learns about you stays with you.
 
@@ -58,12 +60,19 @@ A student grows their thesis or project as a garden. Each bed is a chapter, and 
 ### The researcher's page: social media for academics, owned by the researcher
 A home for researchers that works like a social page but belongs to the person, not a platform. Publish theses and creative works, host wānanga, follow and review each other's work, and collaborate. Everything stays on your own device until you choose to share it, and your intellectual property stays yours.
 
+<p align="center"><img src="gallery/images/10-researcher-page.png" width="200" alt="A researcher's own page: their photo, a Share your work box, and a list of their theses and works"></p>
+
 ### Tāne Media's island and Hawaiki Hōu: spatial social media
 Most social media is a page you scroll up and down, built to keep you scrolling. We are building something different: **social media as a place you go**. Instead of a feed, you arrive by waka (canoe) on Tāne Media's island, walk its paths, look up at Matariki (the Pleiades star cluster, whose rising marks the Māori New Year) and the stars, meet creators where they are, and play together, starting with **Kī-o-Rahi** (a traditional Māori ball game), our own ball game, on the island's field.
 
 Hawaiki Hōu (New Hawaiki, our ancestral homeland reimagined) grows this into a shared world where everyone can hold their own piece of land, mountain and river, and creators keep 97% of what they earn.
 
 It is designed around **digital health and homeostasis**: time online should have a natural rhythm, with a beginning, a middle and an end, like a visit, not an endless scroll. Tāne helps keep things in balance, so people leave feeling better than when they arrived. The island is in development.
+
+<p align="center"><img src="gallery/images/20-tane-media-island-door.png" width="200" alt="Tāne Media's island at night under the nine stars of Matariki"> <img src="gallery/images/11-tane-media.png" width="200" alt="The Tāne Media page: current affairs, documentaries, movies, music, podcasts and FundMe projects"></p>
+<p align="center"><img src="gallery/images/17-media-island-arrival.png" width="420" alt="Walking the island's bush path in a painted, cel-shaded style"></p>
+<p align="center"><img src="gallery/images/19-ki-o-rahi-field.png" width="420" alt="The Kī-o-Rahi field with its pou, players and the taniwha"></p>
+<p align="center"><img src="gallery/images/15-hawaiki-hou-world-sketch.png" width="420" alt="A sketch of the Hawaiki Hōu world: floating islands rising above a great maunga, with a hōkioi carrying a traveller up"></p>
 
 ### ARCeye: art that comes alive
 Point your phone's camera at an ARC print or ARC narrative wear and its story plays over it, from the phone itself, with no internet needed. Artists and creators can show their ARC works in the ARC Gallery.
