@@ -1,6 +1,6 @@
 # Research and Publications
 
-The thinking behind Tāne Sovereign OS Harness, by Dr Thomas Clark.
+The thinking behind Tāne, by Dr Thomas Clark.
 
 ## Papers
 

@@ -1,6 +1,6 @@
 # Roadmap
 
-Where Tāne Sovereign OS Harness is now, and what comes next. We build in three phases: first make every screen look exactly as designed, then make everything flow and feel right, then grow the wider harness.
+Where Tāne is now, and what comes next. We build in three phases: first make every screen look exactly as designed, then make everything flow and feel right, then grow the wider harness.
 
 ## Phase 1: the look (now)
 

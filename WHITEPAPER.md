@@ -1,6 +1,6 @@
 # Whitepaper: Owning Your Own AI
 
-*The short version of why Tāne Sovereign OS Harness exists. The full whitepaper and the research behind it are linked at the end.*
+*The short version of why Tāne exists. The full whitepaper and the research behind it are linked at the end.*
 
 ## The problem
 
@@ -10,7 +10,7 @@ For Indigenous peoples this is an old story in a new form: our knowledge taken, 
 
 ## Our answer
 
-**Tāne Sovereign OS Harness** is a free, open-source AI that you own. It runs on your phone and your own home computer first, and only reaches the cloud when you say so.
+**Tāne** is a free, open-source AI that you own. It runs on your phone and your own home computer first, and only reaches the cloud when you say so.
 
 - **Local first.** The thinking, listening, speaking and remembering all happen on your own devices, even with the internet switched off.
 - **You hold the key.** Nothing leaves without your permission, and anything that does leave is encrypted before it goes.

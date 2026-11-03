@@ -1,6 +1,6 @@
 # A look inside Tāne
 
-These screens come from the **Tāne OS Core Flow prototype**, the design that every part of the app is built to match. Tāne is a sovereign, voice-first harness: one guide who lives on your own phone and your own Home Node, speaks with you, and does the work you ask, **local first, with nothing leaving without your say**.
+These screens come from the **Tāne Core Flow prototype**, the design that every part of the app is built to match. Tāne is a sovereign, voice-first harness: one guide who lives on your own phone and your own Home Node, speaks with you, and does the work you ask, **local first, with nothing leaving without your say**.
 
 Every screen below starts empty and ready for a first-time user. There are no sample people or made-up data.
 

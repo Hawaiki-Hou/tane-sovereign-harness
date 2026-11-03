@@ -1,4 +1,4 @@
-# Tāne Sovereign OS Harness
+# Tāne, a sovereign AI harness
 
 > **In development: not yet ready to install.** Follow along, give feedback, or support the kaupapa (purpose).
 
@@ -170,7 +170,7 @@ If you're a developer, I would be honoured to learn from you. Come and review th
 
 ## Support this project
 
-Tāne Sovereign OS Harness is self-funded: a personal postdoctoral passion project, built in my own time. Any donation helps pay for the tools it takes to build it (AI services, APIs and software subscriptions), so the harness can stay free for everyone. You can support it through the Sponsor button at the top of this page, and I'll share openly how the money is spent.
+Tāne is self-funded: a personal postdoctoral passion project, built in my own time. Any donation helps pay for the tools it takes to build it (AI services, APIs and software subscriptions), so the harness can stay free for everyone. You can support it through the Sponsor button at the top of this page, and I'll share openly how the money is spent.
 
 ### Support the kaupapa
 
