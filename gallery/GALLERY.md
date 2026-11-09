@@ -180,6 +180,14 @@ Not a feed to scroll, but a place to visit. You arrive by waka, walk the island,
 
 <img src="images/18-ki-o-rahi.png" width="640" alt="A game of Kī-o-Rahi in play: the score between Kīoma and Taniwha, and Tāne calling the play">
 
+### Run through the light of Matariki
+
+<img src="clips/09-kiorahi-star-names.gif" width="640" alt="A Kī-o-Rahi run under the night sky: the player carries the kī through the beams of the Matariki stars and each star's name rises on screen in its own colour">
+
+Each star of Matariki shines a beam onto the field. Carry the kī (ball) through a star's light and you score a point, while the name of that star rises on the screen in its own colour with what it looks after: Ururangi (the winds), Waitī (fresh water), Waipuna-ā-rangi (rain), Waitā (the ocean), Pōhutukawa (those who have passed), Tupuārangi (food from the sky) and Tupuānuku (food from the ground). Tamariki (children) learn the names of the stars while they play. [Watch the 10-second clip (MP4)](clips/09-kiorahi-star-names.mp4). *Prototype, recorded 10 November 2026.*
+
+<img src="images/23-kiorahi-star-names.png" width="640" alt="Waitī, the star of fresh water, rising in blue over the Kī-o-Rahi field as a player runs through its beam">
+
 ---
 
 ## Leaders: anyone who leads
